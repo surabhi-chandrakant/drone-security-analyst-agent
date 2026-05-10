@@ -27,7 +27,7 @@ This system processes simulated drone telemetry and video feeds to detect securi
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
+git clone  https://github.com/surabhi-chandrakant/drone-security-analyst-agent.git 
 cd drone-security-agent
 ```
 
